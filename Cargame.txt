@@ -1,0 +1,10 @@
+Ý Tưởng game
+Tên game: Running police
+Ý tưởng: Ô tô mình điều khiển sẽ bị cảnh sát truy đuổi vì cướp nhà băng, khi 
+chạy trốn cảnh sát sẽ phải vượt chướng ngại vật, có 2 loại chướng ngại vật. 
+Loại 1 chạm vào xe giảm tốc nếu chạm vào 2 lần là thua, cần ăn xăng tăng tốc 
+để loại bỏ hiệu ứng giảm tốc.Loại chướng ngại 2 chạm vào 1 lần là thua luôn.
+Sẽ có vật phẩm tăng mạng, Max là 3 mạng, thua 3 lần mà không ăn được vật phẩm
+tăng mạng mới tính là thua. Ngoài chướng ngại vật và vật phẩm buff thì còn có 
+tiền. Ăn Tiền sẽ được cộng điểm. Số tiền ăn được cuối game chính là số điểm của
+bản thân.  
